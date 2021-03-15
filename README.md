@@ -1,6 +1,6 @@
 ### Hi there, I'm Vasanth Kumar - aka [itsparser][website] 👋
 
-## I'm a Engineer!
+## I'm a Software Engineer!
 - 🔭 I’m currently working on a [Open Source Automation tool for testing][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
