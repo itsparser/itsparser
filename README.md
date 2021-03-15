@@ -30,7 +30,7 @@
 
 <img align="left" alt="itsparser's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=itsparser&show_icons=true&hide_border=true" />
 
-[website]: https://itsparser.in
+[website]: https://www.linkedin.com/in/itsparser/
 [twitter]: https://twitter.com/itsparser
 [instagram]: https://instagram.com/itsparser
 [linkedin]: https://linkedin.com/in/itsparser
