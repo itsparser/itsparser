@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on a [Open Source Automation tool for testing][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
