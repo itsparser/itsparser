@@ -10,3 +10,10 @@
 
 [![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsparser&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsparser&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+## Current Actively working repo!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=kayo&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=thermite&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
