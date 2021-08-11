@@ -15,5 +15,5 @@
 
 ## Current Actively working repo!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=kayo&show_owner=true)](https://github.com/itsparser/kayo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=thermite&show_owner=true)](https://github.com/itsparser/thermite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=workfoxes&repo=kayo&show_owner=true)](https://github.com/workfoxes/kayo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=workfoxes&repo=thermite&show_owner=true)](https://github.com/workfoxes/thermite)
