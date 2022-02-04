@@ -1,11 +1,18 @@
-### Hi there, I'm Vasanth Kumar - aka [itsparser][website] 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+Itsparser's+Repository)](https://git.io/typing-svg)
 
-## I'm a Software Engineer!
-- 🔭 I’m currently working on a [Open Source Automation tool for testing](https://github.com/workfoxes/thermite) and [Bot that will trade for you instead](https://github.com/workfoxes/kayo)!
-- 🌱 I’m will be intrested to talk about go, python, crypto, machine learning
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
+<h1 align="center">Hi, I'm Vasanth Kumar Kalaiselvan -  aka [itsparser][https://me.itsparser.in]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+
+### A few things about me
+
+- 💻 I'm Software Engineer
+- 📍 I'm from [lemuria](https://en.wikipedia.org/wiki/Lemuria)
+- 🕸️ I am passionate about building code block with 💖
+- 🤝 I like to meet new people
+- 🌱 I’m will be intrested to talk about rust, go, python, crypto, machine learning
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@itsparser). If you want to read my blogs, click [here](https://blog.itsparser.in)
 <br />
 
 [![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsparser&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,3 +24,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=workfoxes&repo=kayo&show_owner=true)](https://github.com/workfoxes/kayo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=workfoxes&repo=thermite&show_owner=true)](https://github.com/workfoxes/thermite)
+
+
+
