@@ -6,7 +6,7 @@
 
 ### A few things about me
 
-- 💻 I'm Software Engineer
+- 💻 I'm Lead Engineer and Commiter in vain
 - 📍 I'm from [lemuria](https://en.wikipedia.org/wiki/Lemuria)
 - 🕸️ I am passionate about building code block with 💖
 - 🤝 I like to meet new people
