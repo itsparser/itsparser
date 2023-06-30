@@ -7,7 +7,6 @@
 ### A few things about me
 
 - 💻 I'm Lead Engineer and Commiter in vain
-# - 📍 I'm from [lemuria](https://en.wikipedia.org/wiki/Lemuria)
 - 🕸️ I am passionate about building code blocks with 💖
 - 🌱 I’m will be interested to talk about rust, go, python, crypto, machine learning
 - 🤝 Interested to meet new people
