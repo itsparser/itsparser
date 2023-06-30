@@ -7,10 +7,10 @@
 ### A few things about me
 
 - 💻 I'm Lead Engineer and Commiter in vain
-- 📍 I'm from [lemuria](https://en.wikipedia.org/wiki/Lemuria)
-- 🕸️ I am passionate about building code block with 💖
-- 🤝 I like to meet new people
-- 🌱 I’m will be intrested to talk about rust, go, python, crypto, machine learning
+# - 📍 I'm from [lemuria](https://en.wikipedia.org/wiki/Lemuria)
+- 🕸️ I am passionate about building code blocks with 💖
+- 🌱 I’m will be interested to talk about rust, go, python, crypto, machine learning
+- 🤝 Interested to meet new people
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@itsparser). If you want to read my blogs, click [here](https://blog.itsparser.in)
 <br />
