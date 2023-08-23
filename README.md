@@ -14,7 +14,7 @@
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@itsparser). If you want to read my blogs, click [here](https://blog.itsparser.in)
 <br />
 
-[![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsparser&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsparser&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsparser&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br />
