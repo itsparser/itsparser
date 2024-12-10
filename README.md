@@ -19,10 +19,10 @@
 ## Current Actively Working Repos!
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=scaf&show_owner=true)](https://github.com/itsparser/les)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=langval&show_owner=true)](https://github.com/itsparser/les)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=rgxx&show_owner=true)](https://github.com/itsparser/les)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=orca&show_owner=true)](https://github.com/itsparser/orca)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=scaf&show_owner=true)](https://github.com/itsparser/scaf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=langval&show_owner=true)](https://github.com/itsparser/langval)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=rgxx&show_owner=true)](https://github.com/itsparser/rgxx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=orca&show_owner=true)](https://github.com/orcaci/orca)
 
 
 ## Featured Projects
