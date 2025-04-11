@@ -1,32 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+Itsparser's+Repository)](https://git.io/typing-svg)
+# 👋 Hi, I’m Vasanth Kumar K
 
-<h1 align="center">Hi, I'm Vasanth Kumar Kalaiselvan - aka <a href="https://itsparser.in">itsparser</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+🚀 **Lead Software Engineer** | 🧠 System Thinker | 🌍 Freelance Consultant | 🦀 Rustacean | 🧩 Builder at Heart
 
-### A few things about me
+---
 
-- 💻 I'm a Lead Software Engineer at Orangescape Technologies
-- 🚀 Passionate about building scalable systems and optimizing application performance
-- 🌱 I’m interested in **Rust**, **Golang**, **Python**, **Machine Learning**, and **Crypto**
-- 📚 Actively learning and blogging about new tech on [itsparser](https://itsparser.in). Check out my blog [here](https://itsparser.substack.com/)
-- 🤝 I love connecting with people and sharing knowledge
-<br />
+### 🛠️ What I Do
 
-<!-- [![Vasanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsparser&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsparser&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+- 🧬 **Build scalable backend systems** in **Rust**, **Go**, and **Python**
+- 🛡️ Architect **event-driven systems**, **AI-first applications**, and **cloud orchestration** layers
+- 🔍 Obsess over performance, reliability, and clean abstractions
+- 🌐 Contribute to open-source (Madara, GolemCloud, and more)
+- 🧳 Consult globally — blending tech, strategy, and compliance across borders
 
-<br />
+---
 
-## Current Actively Working Repos!
+### 💡 Current Projects
 
+- 🧠 `Axon`: Rust-based LLM Agent framework inspired by LangChain
+- 💘 `Dating App`: Reinventing the way we connect
+- 🛡️ `OTP Service`: Secure, fallback-enabled, and OTP-perfect
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=scaf&show_owner=true)](https://github.com/itsparser/scaf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=langval&show_owner=true)](https://github.com/itsparser/langval)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=rgxx&show_owner=true)](https://github.com/itsparser/rgxx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsparser&repo=orca&show_owner=true)](https://github.com/orcaci/orca)
+---
 
+### 🔧 Tech Stack
 
-## Featured Projects
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?logo=tauri&logoColor=black)
 
-- **[LangVal (OSS)](https://github.com/itsparser/langval)**: A framework to evaluate machine learning language models.
-- **[Rgxx (OSS)](https://pypi.org/project/rgxx/)**: Python library for generating regular expressions from natural language using Rust.
-- **[Scaf (OSS)](https://scaf.itsparser.in/)**: A scaffolding tool for generating project templates in various languages and frameworks.
+---
+
+### 💬 Ask Me About
+
+- Architecting scalable systems in Rust & Go
+- Building AI-first applications with LLMs
+- Optimizing code for performance and clarity
+- Freelancing as a consultant across India/Singapore
+- Setting up dev workflows that *just work*
+
+---
+
+### 🧭 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/itsparser/)
+- 🧪 [GitHub Projects](https://github.com/itsparser?tab=repositories)
+- 📬 Open to collaboration, contracting, and great conversations
+
+---
+
+> *"Take the extra step, type less, and automate what you’re supposed to do."*  
+– Vasanth
