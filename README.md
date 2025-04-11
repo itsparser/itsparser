@@ -41,7 +41,7 @@
 - Architecting scalable systems in Rust & Go
 - Building AI-first applications with LLMs
 - Optimizing code for performance and clarity
-- Freelancing as a consultant across India/Singapore
+- Freelancing as a consultant across UAE/Singapore(ChiangMai)
 - Setting up dev workflows that *just work*
 
 ---
