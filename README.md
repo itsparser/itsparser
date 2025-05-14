@@ -4,6 +4,8 @@
 
 ---
 
+[![views](https://komarev.com/ghpvc/?username=itsparser&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/bsodmike)
+
 ### 🛠️ What I Do
 
 - 🧬 **Build scalable backend systems** in **Rust**, **Go**, and **Python**
